@@ -5,8 +5,8 @@ from youtubesearchpython import VideosSearch
 
 ########## Spotify API authentification ##########
 
-clientID = "a7bf021e80114e5ebecf982370aaf17e"
-clientSecret = "2e4a96c283394ee7b2d4e50aaf26316a"
+clientID = ""
+clientSecret = ""
 redirectUrl = "https://localhost:8888/callback"
 scope = "playlist-read-private"
 
