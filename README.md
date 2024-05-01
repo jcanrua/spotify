@@ -16,7 +16,15 @@ To use this script, you'll need to obtain credentials (client ID and client secr
 
 After obtaining your Spotify credentials, go to downloader.py and manually introduce them. If you have changed the redirection URL, make sure to change it also.
 
-### 3. Install Dependencies
+### 3. Clone Repository
+
+Clone this repository to your local machine using the following command:
+
+```
+git clone https://github.com/jcanrua/spotify-playlist-downloader.git
+```
+
+### 4. Install Dependencies
 
 Install the required Python dependencies using pip:
 
@@ -24,7 +32,7 @@ Install the required Python dependencies using pip:
 pip install -r requirements.txt
 ```
 
-### 4. Run the Script
+### 5. Run the Script
 
 You can now run the script using the following command:
 
