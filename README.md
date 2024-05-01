@@ -1,4 +1,4 @@
-# Spotify Playlist Downloader Python Script
+# Spotify Playlist Downloader 
 
 This Python script interacts with the Spotify API to download playlists. It downloads the first result that Youtube prompts when searched "song name - artist name" as an .mp3.
 
